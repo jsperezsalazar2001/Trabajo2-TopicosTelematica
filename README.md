@@ -5,6 +5,7 @@ Estos fueron los avances de la versión monolítica para esta semana, al dominio
 - www1.sadgroup.ml
 - www2.sadgroup.ml
 - www3.sadgroup.ml
+
 En el primer subdominio si tenemos el certificado SSL a través de certbot y en los otros no. Además, en todos los subdominios tienen instalados wordpress. 
 
 Para el certificado SSL utilizamos el github de la clase: https://github.com/st0263eafit/st026320211/tree/d04dfed95a9709eca32dc254a861cb7e19adfe6d/docker-nginx-wordpress-ssl-letsencrypt
