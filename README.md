@@ -1,6 +1,6 @@
 # Trabajo2-TopicosTelematica
 
-En los avances de la versión monolítica para esta semana, al dominio sadgroup se crearon 3 subdominios:
+Estos fueron los avances de la versión monolítica para esta semana, al dominio sadgroup se crearon 3 subdominios:
 -  www.sadgroup.ml y sadgroup.ml 
 - www1.sadgroup.ml
 - www2.sadgroup.ml
